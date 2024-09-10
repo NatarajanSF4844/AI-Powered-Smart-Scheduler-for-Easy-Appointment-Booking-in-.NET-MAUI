@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiSchedulerAIAssistant", "MauiSchedulerAIAssistant\MauiSchedulerAIAssistant.csproj", "{9C857BA6-37A7-4A87-A2BC-7EC22061C933}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C857BA6-37A7-4A87-A2BC-7EC22061C933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C857BA6-37A7-4A87-A2BC-7EC22061C933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C857BA6-37A7-4A87-A2BC-7EC22061C933}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9C857BA6-37A7-4A87-A2BC-7EC22061C933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C857BA6-37A7-4A87-A2BC-7EC22061C933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C857BA6-37A7-4A87-A2BC-7EC22061C933}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07796E41-BADD-40D4-A88D-E2CA37937872}
+	EndGlobalSection
+EndGlobal
